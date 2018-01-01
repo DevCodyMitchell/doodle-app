@@ -2,7 +2,6 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
   strokeWeight(5);
-  stroke(0,0,255);
   text("Doodle - Cody Mitchell \n\nPRESS ANY KEY TO CLEAR",20,20);
 } 
 
