@@ -1,2 +1,2 @@
-# web-lab
-Some experimentation in web development
+# Doodle App
+Some experimentation in web development using p5.js
