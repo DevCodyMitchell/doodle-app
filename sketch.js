@@ -5,7 +5,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight-30);
   background(255);
   strokeWeight(5);
-  text("Doodle v1.0 - Cody Mitchell \n\nPRESS ANY KEY TO CLEAR",20,20);
+  text("Doodle v1.0 - Cody Mitchell \n\nPRESS ANY KEY OR SWIPE UP TO CLEAR",20,20);
 } 
 
 function mouseDragged() {
